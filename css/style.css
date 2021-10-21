@@ -1,0 +1,279 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body {
+  font-family: "adobe-clean", sans-serif;
+  font-size: 14px;
+  color: #000;
+}
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .show > .nav-link {
+  color: #dda140;
+}
+
+/* Header 1 Text */
+.header_1 {
+  font-size: 62px;
+  font-weight: 50px;
+  color: #222e59;
+}
+.para_color{
+  color:#000;
+}
+/* Header 2 Text */
+.Header_2 {
+  font-size: 42px;
+}
+.Header_2 strong {
+  font-weight: 600;
+}
+.Header_2_white {
+  font-size: 42px;
+  color: #fff;
+}
+/* Header 6 Text */
+.Header_6 {
+  color: #84c441;
+  font-size: 16px;
+}
+.room_booking_header{
+  background-color: #222e59;
+}
+
+.btn-colour-1 {
+  color: #fff;
+  background-color: #222e59;
+  border-color: #222e59;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  border-radius: 0;
+}
+.btn-colour-1:hover,
+.btn-colour-1:active,
+.btn-colour-1:focus,
+.btn-colour-1.active {
+  /* let's darken #004E64 a bit for hover effect */
+  background: #222e59;
+  color: #ffffff;
+  border-color: #222e59;
+}
+.para_align {
+  text-align: justify;
+}
+
+.carousel-caption {
+  position: absolute;
+  z-index: 10;
+  text-align: left;
+  float: left;
+  top: 20%;
+  left: 9%;
+}
+
+.Form_bg_index {
+  position: absolute;
+  z-index: 10;
+  text-align: left;
+  float: left;
+  bottom: -15%;
+  left: 7%;
+  background: #61483a;
+}
+.carousel-caption .header_1 {
+  font-size: 62px;
+  font-weight: bold;
+}
+.package_session {
+  background-image: url("../img/hotel exterior.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: none;
+  position: relative;
+  background-attachment: fixed;
+}
+
+#owl-demo .item {
+  margin: 3px;
+}
+#owl-demo .item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Footer Session opened  */
+
+.footer-section {
+  background: #151414;
+  position: relative;
+}
+.footer-cta {
+  border-bottom: 1px solid #373636;
+}
+.single-cta i {
+  color: #dda140;
+  font-size: 20px;
+}
+
+.footer-content {
+  position: relative;
+  z-index: 2;
+}
+.footer-social-icon a {
+  color: #fff;
+  font-size: 16px;
+  margin-right: 15px;
+}
+.footer-social-icon i {
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 50%;
+}
+.facebook-bg {
+  background: #3b5998;
+}
+.twitter-bg {
+  background: #55acee;
+}
+.google-bg {
+  background: #dd4b39;
+}
+/* Footer Session Closed */
+
+.about_cover {
+  size: cover;
+  height: 100%;
+  position: relative;
+}
+.about_breadcrumb {
+  position: absolute;
+  bottom: 2px;
+  left: 7%;
+}
+
+/* For Footer link */
+a.footer_link {
+  color: #dda140;
+  background-color: transparent;
+  text-decoration: none;
+}
+.footer_link:hover {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.footer_link:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* Bread crumb menu  */
+ul.breadcrumb {
+  list-style: none;
+  background-color: transparent;
+}
+ul.breadcrumb li {
+  display: inline;
+  font-size: 14px;
+}
+ul.breadcrumb li + li:before {
+  padding: 8px;
+  color: #fff;
+  content: " |\00a0";
+}
+ul.breadcrumb li a {
+  color: #fff;
+  text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* Photo Gallery */
+.photo-gallery {
+  color: #313437;
+  background-color: #fff;
+}
+
+.photo-gallery p {
+  color: #7d8285;
+}
+
+.photo-gallery h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width: 767px) {
+  .photo-gallery h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.photo-gallery .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 40px;
+}
+
+.photo-gallery .intro p {
+  margin-bottom: 0;
+}
+
+.photo-gallery .photos {
+  padding-bottom: 20px;
+}
+
+.photo-gallery .item {
+  padding-bottom: 30px;
+}
+.form_space .form_space {
+  padding-left: 20px;
+}
+select {
+  width: 100%;
+  height: 38px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+
+.Form_bg .form_bg {
+  background: #FFF;
+  border: 1px solid black;
+  box-sizing: border-box;
+  box-shadow:#55acee
+}
+/* Accommodation Page button */
+.fa-arrow-circle-right:before {
+  content: "\f0a9";
+  color: #fff;
+}
+.background_content {
+  background-color: #61483a;
+}
+.bg-menu {
+  background-color: #212529 !important;
+}
+
+.button-color{
+  background-color: #f7941d;
+}
+
+figure .col-xtr-sm{
+  width: 50% !important;
+}
+.justify_para{
+  text-align: justify;
+}
