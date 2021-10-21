@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Naava Hotel</title>
+    <title>Ichyo Ryokan</title>
     <?php include './include/head.php' ?>
     <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -21,7 +21,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Sanga.png" class="d-block w-100" alt=" Hotel View">
+                <img src="img/Sanga.png" class="d-block w-100" alt=" Sanga View from our Hotel">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
                     <p class="para_color">Ichyo Ryokan is a Japanese modeled resort at Sanga that offers you a blend of 
@@ -31,7 +31,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Ichyo.png" class="d-block w-100" alt="Hotel View">
+                <img src="img/Ichyo.png" class="d-block w-100" alt="Ichyo Ryokan View">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
                     <p>Ichyo Ryokan is a Japanese modeled resort at Sanga that offers you a blend of 
@@ -41,7 +41,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Ichyo_view.png" class="d-block w-100" alt="Hotel View">
+                <img src="img/Ichyo_view.png" class="d-block w-100" alt="View from our Hotel">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
                     <p class="para_color">Ichyo Ryokan is a Japanese modeled resort at Sanga that offers you a blend of 
@@ -125,13 +125,13 @@
                 <div class="col-md-6 col-sm-12 m-0">
                     <div class="row">
                         <div class="col-md-6 col-sm-6 d-flex justify-content-center">
-                            <img src="img/Hotel Location 1.png" class="img-fluid p-1" alt="Hotel Location">
+                            <img src="img/Hotel Location 1.png" class="img-fluid p-1" alt="Sunset View">
                         </div>
                         <div class="col-md-6 col-sm-6 d-flex justify-content-center">
-                            <img src="img/Hotel_Location 2.png" class="img-fluid p-1" alt="Hotel Location">
+                            <img src="img/Hotel_Location 2.png" class="img-fluid p-1" alt="Mountain's View">
                         </div>
                     </div>
-                    <img src="img/Hotel_Location 3.png" class="img-fluid p-1" alt="Hotel Location" width="100%">
+                    <img src="img/Hotel_Location 3.png" class="img-fluid p-1" alt="Our Hotel Banner" width="100%">
                 </div>
             </div>
         </div>
@@ -142,10 +142,10 @@
             <div class="container mt-5 pb-5">
                 <h6 class="Header_6 pt-5"><strong>Rooms</strong></h6>
                 <h2 class="Header_2_white"><strong><b>We bring you better among the best.</b></strong></h2>
-                <h3 class="text-white ">Special Features of our rooms :</h3>
+                <h3 class="text-white pb-3">Special Features of our rooms :</h3>
                 <div class="row pb-5">
                     <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Blackout drapes curtains.png" alt=" Blackout drapes Curtains">
+                        <img src="img/icons/Blackout drapes curtains.png" class="text-center" alt=" Blackout drapes Curtains">
                         <figcaption class="text-white">Blackout drapes/ curtains</figcaption>
                     </figure>
                     <figure class="col-lg-2 col-md-3 col-sm-4 col-6">

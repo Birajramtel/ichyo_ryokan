@@ -271,9 +271,10 @@ select {
   background-color: #f7941d;
 }
 
-figure .col-xtr-sm{
-  width: 50% !important;
-}
 .justify_para{
   text-align: justify;
+}
+
+.figcaption{
+  text-align: center;
 }
