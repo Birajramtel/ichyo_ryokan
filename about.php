@@ -50,7 +50,7 @@
                         mountain ranges
                     </p>
                 </div>
-                <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
+                <button class="btn btn-colour-1 mb-2 zoom" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
             </div>
             <div class="col-md-6 col-sm-12 pb-2">
                 <img src="img/about_view.png" class="img-fluid" alt="About Our Hotel" width="100%">

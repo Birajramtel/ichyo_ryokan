@@ -94,7 +94,7 @@
                     <input type="email" class="form-control" placeholder="Email" aria-label="Email">
                 </div>
                 <div class="d-flex justify-content-center pt-3">
-                    <button type="submit" class="btn button-color text-white p-3">Submit Query &nbsp; <i class="fa fa-send-o"></i></button>
+                    <button type="submit" class="btn button-color text-white p-3 zoom">Submit Query &nbsp; <i class="fa fa-send-o"></i></button>
                 </div>
             </div>
         </form>
@@ -120,7 +120,7 @@
                         trained cook can make your day with the choice of your drink.
                     </p>
                     <a href="about.php">
-                        <button class="btn btn-lg btn-colour-1 float-end">Read More</button>
+                        <button class="btn btn-lg btn-colour-1 float-end zoom">Read More</button>
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-12 m-0">
@@ -207,7 +207,7 @@
                 </div>
                 <div class="col-md-6 col-sm-12 col-xm-4 mt-auto mb-auto">
                     <a href="near_by_places.php">
-                        <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2">Explore</button>
+                        <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2 zoom">Explore</button>
                     </a>
                 </div>
             </div>

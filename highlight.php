@@ -34,7 +34,7 @@
             </div>
             <div class="col-md-6 col-sm-12 col-xm-4 mt-auto mb-auto">
                 <a href="highlight.php">
-                    <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2">Explore</button>
+                    <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2 zoom">Explore</button>
                 </a>
             </div>
         </div>

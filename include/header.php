@@ -10,25 +10,25 @@
             <div class="mx-auto"></div>
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="index.php">Home</a>
+                    <a class="nav-link text-dark" href="index.php"><strong>Home</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="about.php">About Us</a>
+                    <a class="nav-link text-dark" href="about.php"><strong>About Us</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="highlight.php">Highlight</a>
+                    <a class="nav-link text-dark" href="highlight.php"><strong>Highlight</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="near_by_places.php">Nearby Places</a>
+                    <a class="nav-link text-dark" href="near_by_places.php"><strong>Nearby Places</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="eat_and_drink.php">Eat and Drink</a>
+                    <a class="nav-link text-dark" href="eat_and_drink.php"><strong>Eat and Drink</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="gallery.php">Gallery</a>
+                    <a class="nav-link text-dark" href="gallery.php"><strong>Gallery</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="contact.php">Contact Us</a>
+                    <a class="nav-link text-dark" href="contact.php"><strong>Contact Us</strong></a>
                 </li>
             </ul>
         </div>

@@ -50,7 +50,7 @@
                     <div class="form-group input-group-lg mb-2 d-sm-block d-md-none">
                         <textarea class="form-control" rows="5" id="Description" placeholder="Description"></textarea>
                     </div>
-                    <button style="font-size:18px" class="btn btn-colour-1 btn-sm col-12"> Send <i class="fa fa-send-o"></i></button>
+                    <button style="font-size:18px" class="btn btn-colour-1 btn-sm col-12 zoom"> Send <i class="fa fa-send-o"></i></button>
                 </div>
             </div>
         </form>

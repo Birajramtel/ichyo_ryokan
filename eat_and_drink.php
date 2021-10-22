@@ -76,7 +76,7 @@
                         well-proportionated cock-tail.
                     </p>
                 </div>
-                <button class="btn btn-colour-1 mb-2 btn-lg" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
+                <button class="btn btn-colour-1 mb-2 btn-lg zoom" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
             </div>
 
         </div>
@@ -86,7 +86,7 @@
         <h6 class="Header_6"><strong>PHOTOS</strong></h6>
         <h2 class="Header_2 col-lg-6 col-sm-12"><strong><b>Explore our menu and eat what you want</b></strong></h2>
         <div class="row ml-1">
-            <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
+            <div class="card mb-6 col-sm-12 m-2 zoom" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="img/eat_and_drink_2.png" alt="Eat and Drink" class="img-fluid rounded-start">
@@ -100,7 +100,7 @@
                     </div>
                 </div>
             </div>
-            <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
+            <div class="card mb-6 col-sm-12 m-2 zoom" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="img/eat_and_drink_3.png" alt="Eat and Drink" class="img-fluid rounded-start">
@@ -114,7 +114,7 @@
                     </div>
                 </div>
             </div>
-            <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
+            <div class="card mb-6 col-sm-12 m-2 zoom" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="img/eat_and_drink_2.png" alt="Eat and Drink" class="img-fluid rounded-start">
@@ -128,7 +128,7 @@
                     </div>
                 </div>
             </div>
-            <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
+            <div class="card mb-6 col-sm-12 m-2 zoom" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="img/eat_and_drink_3.png" alt="Eat and Drink" class="img-fluid rounded-start">
