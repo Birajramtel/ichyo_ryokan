@@ -205,7 +205,7 @@
                     <h2 class="Header_2"> <strong><b>What you get <br>In a nutshell</b> </strong></h2>
                 </div>
                 <div class="col-md-6 col-sm-12 col-xm-4 mt-auto mb-auto">
-                    <a href="explore_shivapuri.php">
+                    <a href="near_by_places.php">
                         <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2">Explore</button>
                     </a>
                 </div>
@@ -219,7 +219,8 @@
                             <p class="card-text para_align">
                                 All our 15 rooms exhibit an exclusive contemporary Japanese living style. 
                                 The neat and decent room always awaits you. The decoration and arrangements 
-                                are designed for a pleasurable stay. Check in time: 2:00 pm Check out time: 12:00 noon
+                                are designed for a pleasurable stay.
+                                <br> <strong>Check in time: 2:00 pm </strong> <br> <strong>Check out time: 12:00 noon</strong> 
                             </p>
                         </div>
                     </div>
@@ -256,8 +257,8 @@
                         <div class="card-body">
                             <h5 class="card-title Header_2">Nearby Places</h5>
                             <p class="card-text para_align">
-                                Kailashnath Mahadev statue &nbsp; Kathmandu Fun Valley <br> 
-                                Jungle Hiking &nbsp;Suspension Bridge <br> Aashapuri Temple &nbsp; Panauti  
+                            <strong> Kailashnath Mahadev statue <br> Kathmandu Fun Valley <br> 
+                            Jungle Hiking <br> Suspension Bridge <br> Aashapuri Temple <br> Panauti</strong>  
                             </p>
                         </div>
                     </div>
