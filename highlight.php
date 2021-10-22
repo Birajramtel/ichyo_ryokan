@@ -19,7 +19,7 @@
             <h2 class="header_2 text-white"><strong><b>Highlight</b></strong> </h2>
             <ul class="breadcrumb pl-1">
                 <li><a href="index.php">Home </a></li>
-                <li><a href="accommodation.php">Highlight</a></li>
+                <li><a href="highlight.php">Highlight</a></li>
             </ul>
         </div>
     </div>
@@ -33,7 +33,7 @@
                 <h2 class="Header_2"> <strong><b>What you get <br>In a nutshell</b> </strong></h2>
             </div>
             <div class="col-md-6 col-sm-12 col-xm-4 mt-auto mb-auto">
-                <a href="explore_shivapuri.php">
+                <a href="highlight.php">
                     <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2">Explore</button>
                 </a>
             </div>
@@ -47,56 +47,56 @@
                         <p class="card-text para_align">
                             All our 15 rooms exhibit an exclusive contemporary Japanese living style. 
                             The neat and decent room always awaits you. The decoration and arrangements 
-                            are designed for a pleasurable stay. Check in time: 2:00 pm Check out time: 12:00 noon
+                            are designed for a pleasurable stay. <br><strong> Check in time: 2:00 pm</strong> <br><strong>Check out time: 12:00 noon</strong>
                         </p>
-                        <div class="row pb-5 d-flex">
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Blackout drapes curtains.png" alt=" Blackout drapes Curtains">
-                                <figcaption>Blackout drapes/ curtains</figcaption>
+                        <div class="row pb-5">
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 zoom py-1 detail_align">
+                                <img src="img/icons/Blackout drapes curtains.png" class="pb-2" alt=" Blackout drapes Curtains">
+                                <figcaption">Blackout drapes/ curtains</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Carpeted floor.png" alt="Carpeted floor">
-                                <figcaption>Carpeted floor</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/Carpeted floor.png" class="pb-2" alt="Carpeted floor">
+                                <figcaption">Carpeted floor</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/fan.png" alt="Fan">
-                                <figcaption>Fan</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/fan.png" class="pb-2 pr-4" alt="Fan">
+                                <figcaption">Fan</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Daily Housekeeping.png" alt="Daily Housekeeping">
-                                <figcaption>Daily Housekeeping</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/Daily Housekeeping.png" class="pb-2" alt="Daily Housekeeping">
+                                <figcaption">Daily Housekeeping</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Toiletries.png" alt="Toiletries">
-                                <figcaption>Toiletries</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/Toiletries.png" class="pb-2" alt="Toiletries">
+                                <figcaption">Toiletries</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Slippers.png" alt="Slippers">
-                                <figcaption>Slippers</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/Slippers.png" class="pb-2" alt="Slippers">
+                                <figcaption">Slippers</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Hot water kettle.png" alt="Hot water kettle">
-                                <figcaption>Hot water kettle</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/Hot water kettle.png" class="pb-2" alt="Hot water kettle">
+                                <figcaption">Hot water kettle</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/wifi.png" alt="Wifi">
-                                <figcaption>Wi-Fi</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/wifi.png" class="pb-2" alt="Wifi">
+                                <figcaption">Wi-Fi</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Balcony.png" alt="Balcony">
-                                <figcaption>Balcony</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/Balcony.png" class="pb-2" alt="Balcony">
+                                <figcaption">Balcony</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Mountain view.png" alt="Mountain view">
-                                <figcaption>Mountain view</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/Mountain view.png" class="pb-2" alt="Mountain view">
+                                <figcaption">Mountain view</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Non-smoking.png" alt="Non-smoking">
-                                <figcaption>Non-smoking</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/Non-smoking.png" class="pb-2" alt="Non-smoking">
+                                <figcaption">Non-smoking</figcaption>
                             </figure>
-                            <figure class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                <img src="img/icons/Bath shower.png" alt="Bath Shower">
-                                <figcaption>Bath shower</figcaption>
+                            <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-1 detail_align zoom">
+                                <img src="img/icons/Bath shower.png" class="pb-2" alt="Bath Shower">
+                                <figcaption">Bath shower</figcaption>
                             </figure>                          
                         </div>
                     </div>
@@ -112,9 +112,13 @@
                             pristine surrounding and fine delicacies of foods. Ichyo Ryokan’s conference hall meets your 
                             requirements and is an ideal place for meetings and seminars. The conference hall has to the 
                             capacity to easily adjust thirty people without any cramming. <br>
-                            <strong> Kailashnath Mahadev statue <br> Kathmandu Fun Valley <br> 
-                            Jungle Hiking <br> Suspension Bridge <br> Aashapuri Temple <br> Panauti</strong>  
                         </p>
+                        <h5 class="pb-1"><b> Kailashnath Mahadev statue</b></h5>
+                        <h5 class="pb-1"><b>Kathmandu Fun Valley</b></h5>
+                        <h5 class="pb-1"><b>Jungle Hiking </b></h5>
+                        <h5 class="pb-1"><b>Suspension Bridge</b></h5>
+                        <h5 class="pb-1"><b>Aashapuri Temple </b></h5>
+                        <h5 class="pb-1"><b>Panauti</b></h5>
                     </div>
                 </div>
             </div>

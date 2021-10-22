@@ -66,20 +66,10 @@
     <!-- Form Opened -->
     <div class="container Form_bg">
         <form class="form_bg p-3 mt-3" action="">
-            <div class="room_booking_header">
+            <div class="room_booking_header bg-success">
                 <span class="d-flex justify-content-center text-white p-2 ">An inquiry email for room(s) booking for Aug 19 has been sent to ichyo ryokan. We will reach you out shortly</span>
             </div>
             <div class="row">
-                <div class="col-md-2 mt-2">
-                    <label for="Number of people" class="text-white">Number of people</label>
-                    <select id="room" name="room">
-                        <option value="room_0">2 Adult and 2 Childern</option>
-                        <option value="room_1">2 People</option>
-                        <option value="room_2">6 People</option>
-                        <option value="room_3">10 People</option>
-                        <option value="room_4">15 People</option>
-                    </select>
-                </div>
                 <div class="col-md-3 mt-2">
                     <label for="Check In" class="text-white">Check In</label>
                     <input type="date" class="form-control" placeholder="Check In" aria-label="Check In">
@@ -88,6 +78,17 @@
                     <label for="Check Out" class="text-white">Check Out</label>
                     <input type="date" class="form-control" placeholder="Check Out" aria-label="Check Out">
                 </div>
+                <div class="col-md-2 mt-2">
+                    <label for="Number of people" class="text-white">Number of people</label>
+                    <select id="room" name="room">
+                        <option value="Number of People"><b>Number of People</b></option>
+                        <option value="2 Adult and 2 Childern">2 Adult and 2 Childern</option>
+                        <option value="2 People">2 People</option>
+                        <option value="6 People">6 People</option>
+                        <option value="10 People">10 People</option>
+                        <option value="15 People">15 People</option>
+                    </select>
+                </div>                
                 <div class="col-md-3 mt-2">
                     <label for="Email" class="text-white">Email</label>
                     <input type="email" class="form-control" placeholder="Email" aria-label="Email">
@@ -144,52 +145,52 @@
                 <h2 class="Header_2_white"><strong><b>We bring you better among the best.</b></strong></h2>
                 <h3 class="text-white pb-3">Special Features of our rooms :</h3>
                 <div class="row pb-5">
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Blackout drapes curtains.png" class="text-center" alt=" Blackout drapes Curtains">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 zoom py-5 detail_align">
+                        <img src="img/icons/Blackout drapes curtains.png" class="pb-2" alt=" Blackout drapes Curtains">
                         <figcaption class="text-white">Blackout drapes/ curtains</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Carpeted floor.png" alt="Carpeted floor">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/Carpeted floor.png" class="pb-2" alt="Carpeted floor">
                         <figcaption class="text-white">Carpeted floor</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/fan.png" alt="Fan">
-                        <figcaption class="text-white">Fan</figcaption>
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/fan.png" class="pb-2 pr-4" alt="Fan">
+                        <figcaption class="text-white text-center">Fan</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Daily Housekeeping.png" alt="Daily Housekeeping">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/Daily Housekeeping.png" class="pb-2" alt="Daily Housekeeping">
                         <figcaption class="text-white">Daily Housekeeping</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Toiletries.png" alt="Toiletries">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/Toiletries.png" class="pb-2" alt="Toiletries">
                         <figcaption class="text-white">Toiletries</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Slippers.png" alt="Slippers">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/Slippers.png" class="pb-2" alt="Slippers">
                         <figcaption class="text-white">Slippers</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Hot water kettle.png" alt="Hot water kettle">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/Hot water kettle.png" class="pb-2" alt="Hot water kettle">
                         <figcaption class="text-white">Hot water kettle</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/wifi.png" alt="Wifi">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/wifi.png" class="pb-2" alt="Wifi">
                         <figcaption class="text-white">Wi-Fi</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Balcony.png" alt="Balcony">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/Balcony.png" class="pb-2" alt="Balcony">
                         <figcaption class="text-white">Balcony</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Mountain view.png" alt="Mountain view">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/Mountain view.png" class="pb-2" alt="Mountain view">
                         <figcaption class="text-white">Mountain view</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Non-smoking.png" alt="Non-smoking">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/Non-smoking.png" class="pb-2" alt="Non-smoking">
                         <figcaption class="text-white">Non-smoking</figcaption>
                     </figure>
-                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <img src="img/icons/Bath shower.png" alt="Bath Shower">
+                    <figure class="col-lg-2 col-md-3 col-sm-4 col-6 py-5 detail_align zoom">
+                        <img src="img/icons/Bath shower.png" class="pb-2" alt="Bath Shower">
                         <figcaption class="text-white">Bath shower</figcaption>
                     </figure>                          
                 </div>

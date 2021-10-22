@@ -13,7 +13,7 @@
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
-            <img src="img/About_banner.png" class="d-block w-100" alt=" About Banner">
+            <img src="img/About_banner.png" class="d-block w-100" alt=" Eat and Drink">
         </div>
         <div class="container about_breadcrumb d-none d-md-block">
             <h2 class="header_2 text-white"><strong><b>Eat And Drink</b></strong> </h2>
@@ -38,7 +38,15 @@
                         traditional Nepali, Chinese and Continental cuisine.
                     </strong>
                 </p>
-                <button class="btn  btn-lg btn-colour-1 mb-2">Learn More</button>
+                <div class="collapse multi-collapse" id="multiCollapseExample2">
+                    <p class="para_align">
+                        The restaurant also addresses your crave for the fine liquor. Quench your thirst with some local and 
+                        foreign flavours of beverages. Whether you want to unwind with friends or seek enjoyment in solitude, 
+                        you will get it served as per your demand. Make your moment joyful with seasoned snacks and 
+                        well-proportionated cock-tail.
+                    </p>
+                </div>
+                <button class="btn btn-colour-1 mb-2 btn-lg" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
             </div>
             <div class="col-md-3 col-sm-6 pb-2 d-block d-sm-none">
                 <img src="img/eat_and_drink_small_1.png" class="img-fluid w-100" alt="Foods and Drinks">

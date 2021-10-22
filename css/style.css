@@ -13,6 +13,10 @@ body {
 .navbar-dark .navbar-nav .show > .nav-link {
   color: #dda140;
 }
+.navbar-dark .navbar-nav .nav-link {
+  font-weight: 500;
+  letter-spacing: 1px;
+}
 
 /* Header 1 Text */
 .header_1 {
@@ -39,9 +43,9 @@ body {
   color: #84c441;
   font-size: 16px;
 }
-.room_booking_header{
-  background-color: #222e59;
-}
+/* .room_booking_header{
+  background-color: none;
+} */
 
 .btn-colour-1 {
   color: #fff;
@@ -56,9 +60,22 @@ body {
 .btn-colour-1:focus,
 .btn-colour-1.active {
   /* let's darken #004E64 a bit for hover effect */
-  background: #222e59;
+  background: #0c1429;
   color: #ffffff;
   border-color: #222e59;
+}
+ /* For Zoom Effect */
+.zoom {
+  transition: transform 1s; /* Animation */
+}
+.detail_align{
+  text-align: center;
+}
+
+.zoom:hover {
+  transform: scale(
+    1.1
+  ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 .para_align {
   text-align: justify;

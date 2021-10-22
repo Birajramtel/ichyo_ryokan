@@ -22,7 +22,7 @@
             <h2 class="header_2 text-white"><strong><b>Nearby Places</b></strong> </h2>
             <ul class="breadcrumb pl-1">
                 <li><a href="index.php">Home </a></li>
-                <li><a href="accommodation.php">Nearby Places</a></li>
+                <li><a href="near_by_places.php">Nearby Places</a></li>
             </ul>
         </div>
     </div>

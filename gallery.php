@@ -19,7 +19,7 @@
             <h2 class="header_2 text-white"><strong><b>Gallery</b></strong> </h2>
             <ul class="breadcrumb pl-1">
                 <li><a href="index.php">Home </a></li>
-                <li><a href="accommodation.php">Gallery</a></li>
+                <li><a href="gallery.php">Gallery</a></li>
             </ul>
         </div>
     </div>
@@ -30,14 +30,14 @@
         <div class="container">
             <h2 class="Header_2"><strong><b>Gallery</b></strong></h2>
             <div class="row photos">
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_1.png"></a></div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_2.png"></a></div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_3.png"></a></div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_4.png"></a></div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_5.png"></a></div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_6.png"></a></div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_7.png"></a></div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_8.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_1.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_2.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_3.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_4.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_5.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_6.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_7.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_8.png"></a></div>
             </div>
         </div>
     </div>
