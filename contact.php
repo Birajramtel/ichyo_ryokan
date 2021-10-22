@@ -70,7 +70,7 @@
         </div>
     </div>
     <div class="container mt-5 mb-5">
-        <img src="img/Contact_banner.png" alt=" Find our Location">
+        <img src="img/Contact_banner.png" class="w-100 zoom" alt=" Find our Location">
     </div>
 
     <!-- Contact Contain Session Closed -->
