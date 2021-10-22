@@ -71,13 +71,13 @@
             </div>
             <div class="row">
                 <div class="col-md-2 mt-2">
-                    <label for="rooms" class="text-white">Rooms</label>
+                    <label for="Number of people" class="text-white">Number of people</label>
                     <select id="room" name="room">
-                        <option value="room_0">Rooms</option>
-                        <option value="room_1">B&B</option>
-                        <option value="room_2">SMALL</option>
-                        <option value="room_3">PREMIUM</option>
-                        <option value="room_4">EXPENCIVE</option>
+                        <option value="room_0">2 Adult and 2 Childern</option>
+                        <option value="room_1">2 People</option>
+                        <option value="room_2">6 People</option>
+                        <option value="room_3">10 People</option>
+                        <option value="room_4">15 People</option>
                     </select>
                 </div>
                 <div class="col-md-3 mt-2">
