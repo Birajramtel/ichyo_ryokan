@@ -19,7 +19,7 @@
             <h2 class="header_2 text-white"><strong><b>About Naava</b></strong> </h2>
             <ul class="breadcrumb pl-1">
                 <li><a href="index.php">Home </a></li>
-                <li><a href="about_us.php"> About Us</a></li>
+                <li><a href="about.php"> About Us</a></li>
             </ul>
         </div>
     </div>
