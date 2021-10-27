@@ -16,7 +16,7 @@
             <img src="img/About_banner.png" class="d-block w-100" alt=" Sanga">
         </div>
         <div class="container about_breadcrumb d-none d-md-block">
-            <h2 class="header_2 text-white"><strong><b>About Naava</b></strong> </h2>
+            <h2 class="header_2 text-white"><strong><b>About Ichyo Ryokan</b></strong> </h2>
             <ul class="breadcrumb pl-1">
                 <li><a href="index.php">Home </a></li>
                 <li><a href="about.php"> About Us</a></li>
