@@ -26,9 +26,11 @@
     <!-- Header Closed -->
 
     <!-- Gallery Content Session Opened -->
+    <div class="container mt-5 mb-5">
+        <h2 class="Header_2"><strong>Gallery</strong></h2>
+    </div>
     <div class="photo-gallery">
         <div class="container">
-            <h2 class="Header_2"><strong><b>Gallery</b></strong></h2>
             <div class="row photos">
                 <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_1.png"></a></div>
                 <div class="col-sm-6 col-md-4 col-lg-3 item zoom"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_2.png"></a></div>

@@ -10,25 +10,25 @@
             <div class="mx-auto"></div>
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="index.php"><strong>Home</strong></a>
+                    <a class="nav-link logo_colour" href="index.php"><strong>Home</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="about.php"><strong>About Us</strong></a>
+                    <a class="nav-link logo_colour" href="about.php"><strong>About Us</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="highlight.php"><strong>Highlight</strong></a>
+                    <a class="nav-link logo_colour" href="highlight.php"><strong>Highlight</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="near_by_places.php"><strong>Nearby Places</strong></a>
+                    <a class="nav-link logo_colour" href="near_by_places.php"><strong>Nearby Places</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="eat_and_drink.php"><strong>Eat and Drink</strong></a>
+                    <a class="nav-link logo_colour" href="eat_and_drink.php"><strong>Eat and Drink</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="gallery.php"><strong>Gallery</strong></a>
+                    <a class="nav-link logo_colour" href="gallery.php"><strong>Gallery</strong></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="contact.php"><strong>Contact Us</strong></a>
+                    <a class="nav-link logo_colour" href="contact.php"><strong>Contact Us</strong></a>
                 </li>
             </ul>
         </div>

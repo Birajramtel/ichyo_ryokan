@@ -30,6 +30,7 @@ body {
 /* Header 2 Text */
 .Header_2 {
   font-size: 42px;
+  color: #222e59;
 }
 .Header_2 strong {
   font-weight: 600;
@@ -37,6 +38,7 @@ body {
 .Header_2_white {
   font-size: 42px;
   color: #fff;
+  
 }
 /* Header 6 Text */
 .Header_6 {
@@ -294,4 +296,8 @@ select {
 
 .figcaption{
   text-align: center;
+}
+
+.logo_colour{
+  color: #222e59 !important;
 }
