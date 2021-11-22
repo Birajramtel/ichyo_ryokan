@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Naava Hotel</title>
+    <title>Ichyo Ryokan</title>
     <?php include './include/head.php' ?>
 </head>
 

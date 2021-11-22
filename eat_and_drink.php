@@ -3,7 +3,7 @@
 
 <head>
     <?php include './include/head.php' ?>
-    <title>Naava Hotel</title>
+    <title>Ichyo Ryokan</title>
 </head>
 
 <body>
