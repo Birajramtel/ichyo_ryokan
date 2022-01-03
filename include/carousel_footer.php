@@ -4,15 +4,18 @@
 </div>
 <div class="owl-carousel owl-theme">
     <div class="item">
-        <img src="img/bread.png" class="float-right" alt="Table Final">
+        <img src="./img/footer_img/footer_3.png" class="float-right p-2" alt="Hotel Rooms">
     </div>
     <div class="item">
-        <img src="img/breakfast.jpg" class="float-right" alt="Bishnudwaar Hiking">
+        <img src="./img/footer_img/footer_2.png" class="float-right p-2" alt="Foods salad">
     </div>
     <div class="item">
-        <img src="img/pomo.png" class="float-right" alt="Hotel Bed">
+        <img src="./img/footer_img/footer_5.jpg" class="float-right p-2" alt="Miso Soup">
     </div>
     <div class="item">
-        <img src="img/cup.png" class="float-right" alt="Seminar Hall">
+        <img src="./img/footer_img/footer_4.png" class="float-right p-2" alt="Beds">
+    </div>
+    <div class="item">
+        <img src="./img/footer_img/footer_1.png" class="float-right p-2" alt="Soup">
     </div>
 </div>

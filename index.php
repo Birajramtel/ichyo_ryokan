@@ -21,30 +21,30 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Sanga.png" class="d-block w-100" alt=" Sanga View from our Hotel">
+                <img src="img/banner/banner_2.jpg" class="d-block w-100" alt=" Sanga View from our Hotel">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
-                    <p class="para_color">Ichyo Ryokan is a Japanese modeled resort at Sanga that offers you a blend of 
+                    <p class="para_color col-md-8 text-white">Ichyo Ryokan is a Japanese modeled resort at Sanga that offers you a blend of 
                         Japanese and Nepali culture and cuisine. Our Japanese cuisine in a special cultural 
                         atmosphere shall definitely add excitement and memorable moment to your day-to-day life.
                     </p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Ichyo.png" class="d-block w-100" alt="Ichyo Ryokan View">
+                <img src="img/banner/banner_5.png" class="d-block w-100" alt="Ichyo Ryokan View">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
-                    <p>Ichyo Ryokan is a Japanese modeled resort at Sanga that offers you a blend of 
+                    <h2 class="header_1 text-white pb-5 ">Every stay will give <br> you a reason to smile.</h2>
+                    <p class="col-md-8">Ichyo Ryokan is a Japanese modeled resort at Sanga that offers you a blend of 
                         Japanese and Nepali culture and cuisine. Our Japanese cuisine in a special cultural 
                         atmosphere shall definitely add excitement and memorable moment to your day-to-day life.
                     </p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Ichyo_view.png" class="d-block w-100" alt="View from our Hotel">
+                <img src="img/banner/banner_3.png" class="d-block w-100" alt="View from our Hotel">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
-                    <p class="para_color">Ichyo Ryokan is a Japanese modeled resort at Sanga that offers you a blend of 
+                    <h2 class="header_1 text-white pb-5"> Your home <br> away from Home.</h2>
+                    <p class="para_color col-md-8 text-white">Ichyo Ryokan is a Japanese modeled resort at Sanga that offers you a blend of 
                         Japanese and Nepali culture and cuisine. Our Japanese cuisine in a special cultural 
                         atmosphere shall definitely add excitement and memorable moment to your day-to-day life.
                     </p>
@@ -214,7 +214,7 @@
             <div class="row row-cols-1 row-cols-md-2 g-4">
                 <div class="col-md-6">
                     <div class="card">
-                        <img src="img/rooms 1.png" class="card-img-top" alt="Bishnudwaar">
+                        <img src="./img/rooms/room_1 1.png" class="card-img-top" alt="Bishnudwaar">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Rooms</h5>
                             <p class="card-text para_align">
@@ -228,7 +228,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="card">
-                        <img src="img/mam.png" class="card-img-top" alt="Day Package - Picnic">
+                        <img src="./img/resturant.png" class="card-img-top" alt="Resturant">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Restaurant</h5>
                             <p class="card-text para_align">
@@ -241,12 +241,12 @@
                 </div>
                 <div class="col-md-6 ">
                     <div class="card">
-                        <img src="img/Dining.png" class="card-img-top" alt="Teen Chuli">
+                        <img src="./img/hotel_detail.png" class="card-img-top" alt="Teen Chuli">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Dining Hall </h5>
                             <p class="card-text para_align pb-0">
                             You may require a larger space for a meeting or a seminar where your work is blended 
-                            with the pristine surrounding and fine delicacies of foods. Ichyo Ryokan’s conference 
+                            with the pristine surrounding and fine delicacies of foods. Ichyo Ryokans conference 
                             hall meets your requirements and is an ideal place for meetings and seminars. The 
                             conference hall has to the capacity to easily adjust thirty people without any cramming.</p>                           
                         </div>
