@@ -18,7 +18,6 @@
                 <ul style="list-style-type:none;">
                     <li><a class="footer_link" href="about.php">About Us</a></li>
                     <li><a class="footer_link" href="highlight.php">Rooms</a></li>
-                    <li><a class="footer_link" href="highlight.php">Aminities</a></li>
                     <li><a class="footer_link" href="gallery.php">Gallary</a></li>
                 </ul>
             </div>
@@ -34,23 +33,21 @@
                 <h2 class="text-white">Contact</h2>
                 <div class="footer-social-icon">
                     <div class="single-cta">
-                        <i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">minatamanglama@gmail.com</span>
+                        <i class="far fa-envelope"></i>
+                        <a href="mailto: minatamanglama@gmail.com"><span class="text-white">minatamanglama@gmail.com</span></a>
                     </div>
                     <div class="single-cta">
                         <i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white"><a href="tel:011-660864">011-660864</a> </span>
                     </div>
                     <div class="single-cta">
-                        <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Sanga-Ashapuri marg</span>
+                        <a href="https://goo.gl/maps/9D3N98NzDpEW7vGeA"><i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Sanga-Ashapuri marg</span></a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row mt-5">
-            <div class="col-6">
-                <p class="text-white float-start">Copyright &copy; 2018, All Right Reserved SewaTech</p>
-            </div>
-            <div class="col-6">
-                <a class="footer_link float-end" href="#">https://ichyoryokan.com.np/</a>
+            <div class="d-flex justify-content-center">
+                <p class="text-white float-start">Copyright &copy; 2018, All Right Reserved <a href="https://sewatech.com.np/" class="text-white" target="_blank"> SewaTech</a></p>
             </div>
         </div>
     </div>

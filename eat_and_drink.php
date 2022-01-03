@@ -68,15 +68,18 @@
                         traditional Nepali, Chinese and Continental cuisine.
                     </strong>
                 </p>
-                <div class="collapse multi-collapse" id="multiCollapseExample2">
-                    <p class="para_align">
-                        The restaurant also addresses your crave for the fine liquor. Quench your thirst with some local and 
-                        foreign flavours of beverages. Whether you want to unwind with friends or seek enjoyment in solitude, 
-                        you will get it served as per your demand. Make your moment joyful with seasoned snacks and 
-                        well-proportionated cock-tail.
-                    </p>
-                </div>
-                <button class="btn btn-colour-1 mb-2 btn-lg zoom" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
+                <p id="dots"></p>
+                <p id="more">
+                    <div class="collapse multi-collapse" id="multiCollapseExample2">
+                        <p class="para_align">
+                            The restaurant also addresses your crave for the fine liquor. Quench your thirst with some local and 
+                            foreign flavours of beverages. Whether you want to unwind with friends or seek enjoyment in solitude, 
+                            you will get it served as per your demand. Make your moment joyful with seasoned snacks and 
+                            well-proportionated cock-tail.
+                        </p>
+                    </div>
+                </p>
+                <button onclick="myFunction()" id="myBtn" class="btn btn-colour-1 mb-2 btn-lg zoom" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
             </div>
 
         </div>
@@ -159,6 +162,23 @@
     <script src="js/owl.carousel.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <!-- Optional JavaScript; choose one of the two! -->
+    <script>
+        function myFunction() {
+        var dots = document.getElementById("dots");
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
+
+        if (dots.style.display === "none") {
+            dots.style.display = "inline";
+            btnText.innerHTML = "Read more"; 
+            moreText.style.display = "none";
+        } else {
+            dots.style.display = "none";
+            btnText.innerHTML = "Read less"; 
+            moreText.style.display = "inline";
+        }
+        }
+    </script>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>

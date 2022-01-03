@@ -43,14 +43,17 @@
                      can make your day with the choice of your drink. A perfect place with comfortable accommodation 
                      for a weekend, or a useful meeting or a vacation.
                 </p>
-                <div class="collapse multi-collapse" id="multiCollapseExample2">
-                    <p class="para_align">
-                        This resort is situated at 1850 m. from sea level with the lush green forest in the background 
-                        and a beautiful panorama of the Himalayas in the foreground. The panorama offers a view of the 
-                        mountain ranges
-                    </p>
-                </div>
-                <button class="btn btn-colour-1 mb-2 zoom" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
+                <p id="dots"></p>
+                <p id="more">
+                    <div class="collapse multi-collapse" id="multiCollapseExample2">
+                        <p class="para_align">
+                            This resort is situated at 1850 m. from sea level with the lush green forest in the background 
+                            and a beautiful panorama of the Himalayas in the foreground. The panorama offers a view of the 
+                            mountain ranges
+                        </p>
+                    </div>
+                </p>
+                <button onclick="myFunction()" id="myBtn" class="btn btn-colour-1 mb-2 zoom" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
             </div>
             <div class="col-md-6 col-sm-12 pb-2">
                 <img src="img/about_view.png" class="img-fluid" alt="About Our Hotel" width="100%">
@@ -67,9 +70,9 @@
                 <h2 class="Header_2"> <strong><b> We trust our customers and they trusts us too</b></strong></h2>
                 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-indicators">
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active bg-warning" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" class="bg-warning" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" class="bg-warning" aria-label="Slide 3"></button>
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -119,6 +122,23 @@
     <!-- Footer Session Closed -->
     <script src="js/owl.carousel.js"></script>
     <script src="js/owl.carousel.min.js"></script>
+    <script>
+        function myFunction() {
+        var dots = document.getElementById("dots");
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
+
+        if (dots.style.display === "none") {
+            dots.style.display = "inline";
+            btnText.innerHTML = "Read more"; 
+            moreText.style.display = "none";
+        } else {
+            dots.style.display = "none";
+            btnText.innerHTML = "Read less"; 
+            moreText.style.display = "inline";
+        }
+        }
+    </script>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->

@@ -49,7 +49,7 @@
                             family time together. The vibes of the place will certainly attract you if you are a religious person.
                         </p>
                     </div>
-                    <button class="btn btn-primary btn-lg zoom" type="button"><a href="contact.php" class="text-white"> Get Direction &nbsp; <i class="fas fa-map-marked-alt"></i></a></button>
+                    <a href="contact.php" class="btn btn-primary text-white btn-lg zoom" type="button">Get Direction &nbsp; <i class="fas fa-map-marked-alt"></i></a>
                 </div>
             </div>
             <div class="col">
@@ -62,7 +62,7 @@
                             family time together. The vibes of the place will certainly attract you if you are a religious person.
                         </p>    
                     </div>
-                    <button class="btn btn-primary btn-lg zoom" type="button"><a href="contact.php" class="text-white"> Get Direction &nbsp; <i class="fas fa-map-marked-alt"></i></a></button>
+                    <a href="contact.php" class="btn btn-primary text-white btn-lg zoom" type="button">Get Direction &nbsp; <i class="fas fa-map-marked-alt"></i></a>
                 </div>
             </div>
             <div class="col">
@@ -75,7 +75,7 @@
                             family time together. The vibes of the place will certainly attract you if you are a religious person.
                         </p>      
                     </div>
-                    <button class="btn btn-primary btn-lg zoom" type="button"><a href="contact.php" class="text-white"> Get Direction &nbsp; <i class="fas fa-map-marked-alt"></i></a></button>
+                    <a href="contact.php" class="btn btn-primary text-white btn-lg" type="button">Get Direction &nbsp; <i class="fas fa-map-marked-alt"></i></a>
                 </div>
             </div>
         </div>

@@ -59,18 +59,20 @@
     <div class="container footer-social-icon pb-2">
         <div class="row mt-5 mb-2">
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
-                <i class="far fa-envelope-open"></i>&nbsp;<span class="pt-2"><strong>minatamanglama@gmail.com</strong></span>
+                <a href= "mailto: minatamanglama@gmail.com">
+                    <span class="pt-2"><strong class="text-dark">minatamanglama@gmail.com</strong></span>
+                </a>
             </div>
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
                 <i class="fas fa-phone-alt"></i>&nbsp;<span class="pt-2"><a href="tel:011-660864" class="text-dark"><strong>011-660864</strong></a></span>
             </div>
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
-                <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="pt-2"><strong>Sanga-Ashapuri marg</strong></span>
+                <a href="https://goo.gl/maps/9D3N98NzDpEW7vGeA"><i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-dark"><strong>Sanga-Ashapuri marg</strong></span></a>
             </div>
         </div>
     </div>
     <div class="container mt-5 mb-5">
-        <img src="img/Contact_banner.png" class="w-100 zoom" alt=" Find our Location">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28276.27062612814!2d85.45706853955082!3d27.638951000000013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb0fa1ec907f97%3A0x3a283a89983d3dac!2z6YqA5p2P5peF6aSoIChJY2hvIFJ5b2thbik!5e0!3m2!1sen!2snp!4v1635498224169!5m2!1sen!2snp" width=100% height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
 
     <!-- Contact Contain Session Closed -->
